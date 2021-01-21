@@ -4,7 +4,6 @@
 @use "./base/mixins" as *;
 
 .rectangle {
-  background-color: purple;
   position: absolute;
-  transition: all 3ms;
+  transition: all 1ms;
 }
